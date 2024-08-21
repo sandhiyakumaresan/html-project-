@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html >
+<head>
+   <title>Portrait Drawing </title>
+   <link rel="icon" href="tiger.jpg">
+</head>
+<body style="background-image:url(beige-leafy-watercolor-background-vector_53876-136491.jpg) ;">
+    <center>
+    <h1 style ="font-family: verdana ;">SAN CREATION 🎨</h1> 
+
+    <h3 style="font-family: Verdana, ;">Art And Painting </h3>
+    <img src ="IMG-20240803-WA0001.jpeg" width="400" height="400"> <img src="IMG_20240330_144632.jpg" width="400" height="400">
+    <p>
+    <a href="Reffer.html">Reffer more drawing here </a>
+   </p>
+</center>
+    <h2> PORTRAIT SKETCH </h2>
+
+    <h3> Single Face </h3>
+    <ul style="list_style_type: circle">
+     <li>Graphite pencil sketch:1000 /-Rs (A3 Size) </li>
+     <li>(Without Frame):800 /-Rs (A3 Size) </li>
+     <li>Charcoal Pencil Sketch:1500 /-Rs (A3 Size) </li>
+     <li>(Without Frame):1200 /-Rs (A3 Size) </li>
+    </ul>
+    
+    <h3> Double Face</h3>
+
+    <ul style="list_style_type: circle">
+     <li>Graphite pencil sketch:1600 /-Rs (A3 Size) </li>
+     <li>(Without Frame): 1200 /-Rs (A3 Size) </li>
+     <li>Charcoal Pencil Sketch: 2100 /-Rs (A3 Size) </li>
+     <li>(Without Frame):1600 /-Rs (A3 Size) </li>
+    </ul>
+    <hr>
+    <center>
+    <h4> 📱CONTACT : 7604858373 </h4>
+    <h4> 🚀INSTGRAM  : Sandhiya9849 </h4>
+    <h4> 📧E-Mail : sandhiya9849@gmail.com  </h4>
+   </center>
+   <hr>
+
+</body>
+</html>
